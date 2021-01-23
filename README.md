@@ -1,4 +1,4 @@
-# Guereca Recipes 
+# Recipes 
 
 Stack: 
 - React 
